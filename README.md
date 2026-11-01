@@ -17,6 +17,7 @@ Data Visualization: Matplotlib
 Data Mining: MLxtend
 Web Dashboard: Streamlit
 Dataset: Groceries Dataset
+
 ⚙️ Features
 Data cleaning and preprocessing
 Product frequency analysis
@@ -25,35 +26,13 @@ Association rule generation
 Interactive dashboard
 Product charts and tables
 Downloadable analysis results
+
 📊 Key Concepts
 Support: Measures how frequently an itemset appears in transactions.
 Confidence: Measures how often the consequent occurs when the antecedent occurs.
 Lift: Measures the strength of an association between products compared with their independent occurrence.
-🚀 Live Demo
-Try the live application here:
 
-Market Basket Analysis Dashboard
 
-💻 Installation and Setup
-Clone the repository:
-
-git clone https://github.com/khushi0435/MarketBasketAnalysis.git
-Open the project folder:
-
-cd MarketBasketAnalysis
-Install the required libraries:
-
-pip install -r requirements.txt
-Run the Streamlit application:
-
-streamlit run app.py
-📁 Project Structure
-MarketBasketAnalysis/
-├── app.py
-├── main.py
-├── Groceries_dataset.csv
-├── requirements.txt
-└── README.md
 📈 Applications
 Retail and supermarket analysis
 Product recommendation
